@@ -1,7 +1,11 @@
-
+ 
 ---
-
+    
 # **Water Quality Prediction Using Machine Learning**
+  
+
+
+
 
 ## **Project Overview**
 
@@ -246,5 +250,6 @@ Conductance decreased, indicating reduced dissolved solids and cleaner inflows.
 pH increased slightly, consistent with ionic or CO₂ balance changes.
 
 Turbidity remained stable, reflecting consistent sediment inputs.
+
 
 
